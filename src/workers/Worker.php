@@ -6,6 +6,8 @@
  * Time: 11:40
  */
 
+namespace workers;
+
 interface Worker
 {
     public function work();

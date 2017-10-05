@@ -13,6 +13,7 @@ class Broom implements Tool
 
     public function doSomething()
     {
-        print ("Sweep" . "<br>");
+        print ("Sweep\nSweep");
+
     }
 }
